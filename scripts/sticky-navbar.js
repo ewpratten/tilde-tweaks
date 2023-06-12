@@ -13,7 +13,7 @@ const STATIC_CSS = `
 @media screen and (min-width: 840px) {
     #site-header {
         background-color: var(--background-secondary-color);
-    position: sticky;
+        position: sticky;
         top: 0;
         z-index: 1;
     }
